@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipak Pakhale</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/dipakpakhale09/dipakpakhale09/assets/152465143/87618892-b082-467c-a07b-7b624fc2c60b)">
+<img align="right" width="400" src="![image](https://github.com/dipakpakhale09/dipakpakhale09/assets/152465143/87618892-b082-467c-a07b-7b624fc2c60b)">
 <p alifn="left" ></p>
 
 •	I have done postgraduation course in Data Science and Analytics
