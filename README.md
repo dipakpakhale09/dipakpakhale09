@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Dipak Pakhale</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 <img align="right" width="400" src="![image](https://github.com/dipakpakhale09/dipakpakhale09/assets/152465143/87618892-b082-467c-a07b-7b624fc2c60b)">
-<p alifn="left" ></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakpakhale09&label=Profile%20views&color=0e75b6&style=flat" alt="dipakpakhale09" /> </p>
 
 •	I have done postgraduation course in Data Science and Analytics
 
@@ -13,9 +14,6 @@
 •	📚 Proficiency in Python, SQL
 
 •	📚 Proficiency in Machine Learning, Deep Learning
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipakpakhale09&label=Profile%20views&color=0e75b6&style=flat" alt="dipakpakhale09" /> </p>
 
 - 💬 Ask me about **Data Analysis, Data visualization, ML Model Building**
 
